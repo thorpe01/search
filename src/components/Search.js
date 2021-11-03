@@ -20,7 +20,6 @@ function Search(){
      };
 
 
-
     return(
         <>
         <div className="searchbar">
